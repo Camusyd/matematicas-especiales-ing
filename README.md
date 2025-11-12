@@ -1,4 +1,4 @@
-# 📘 Matemáticas Especiales — Modelado para Ingeniería ⚙️
+# Matemáticas Especiales — Modelado para Ingeniería️
 
 Este repositorio es el material de apoyo y desarrollo práctico para la asignatura de **Matemáticas Especiales** de la Fundación de Educación Superior Nueva América. Contiene material teórico (`.md`), ejercicios (`.ipynb`) y ejemplos computacionales en Python (`.py`) enfocados en el modelado de sistemas dinámicos y el análisis complejo, pilares fundamentales en la formación en ingeniería.
 
