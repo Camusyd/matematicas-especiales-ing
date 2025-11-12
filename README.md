@@ -30,7 +30,7 @@ Los contenidos están organizados en cinco módulos temáticos principales, sigu
 | **[02\_sistemas\_dinamicos](./02_sistemas_dinamicos)** | Análisis Cualitativo | Sistemas Lineales y No Lineales, Retratos de Fase , Estabilidad. |
 | **[03\_variable\_compleja](./03_variable_compleja)** | Funciones y Análisis Complejo | Ecuaciones de Cauchy-Riemann, Teorema Integral de Cauchy, Residuos. |
 | **[04\_fourier](./04_fourier)** | Análisis en la Frecuencia | Serie de Fourier, Transformada de Fourier, Convolución. |
-| **[05\_metodos\_especiales](./05_metodos_especiales)** | **Aplicación y Práctica Intensiva** | Resolución de problemas contextuales utilizando los métodos más avanzados de las unidades 01-04. |
+| **[05\_metodos\_especiales](./05_metodos_Especiales)** | **Aplicación y Práctica Intensiva** | Resolución de problemas contextuales utilizando los métodos más avanzados de las unidades 01-04. |
 
 Cada unidad (`01` a `04`) incluye:
 * `teoria.md`: Teoría resumida y conceptos fundamentales.
