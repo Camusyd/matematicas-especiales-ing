@@ -1,0 +1,40 @@
+# Ignorar archivos generados por Python y entornos virtuales
+# =========================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+/htmlcov/
+.tox/
+
+# Archivos de entorno de desarrollo y gestión de paquetes
+# ========================================================
+.vscode/        # Ignorar configuración de VS Code
+.idea/          # Ignorar configuración de PyCharm/IntelliJ
+pip-log.txt
+pip-delete-this-file.txt
+
+# Ignorar archivos de Jupyter Notebook y almacenamiento de datos
+# ===============================================================
+.ipynb_checkpoints/  # Puntos de control de Jupyter Notebooks
+*.bak
+*.swp
+*.log
+*~
+*.DS_Store       # Archivos de metadatos de macOS
+
+# Archivos grandes o de salida (simulaciones, modelos entrenados)
+# ===============================================================
+/data/simulaciones_output/  # Si generas muchos archivos de salida
+/data/*.pkl
+/data/*.h5
+/data/*.csv.zip
+/data/temp/
+
+# Resultados de compilación y documentación (si aplica)
+# ===================================================
+/build/
+/dist/
